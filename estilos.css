@@ -1,0 +1,107 @@
+header{
+    background:#808080;
+}
+.main{
+    color:;
+    font-size:25px;
+    background:#fff;
+    font-size:20px;
+}
+.color1 {
+	background: #34495e;
+	color:#fff;
+}
+aside{
+    background:#F5F5DC;
+    color:;
+}
+footer{
+    background:#16a085;
+    color:#fff;
+    width: 100% ;
+    height: 100%;
+}﻿
+body {
+width: 1000% ;
+height: 1000%;
+}
+.portada{
+    background: url() no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100% ;
+    text-align: center;
+
+}
+* {
+    padding: 0 ;
+    margin: 0 ;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.contenedor {
+    width:95%;
+    max-width:1000px;
+    margin: auto;
+}
+.contenedorp {
+    margin-bottom: 40px;
+}
+header nav {
+    background:#3498db;
+    margin-bottom:10px; 
+}
+header nav ul {
+    list-style:none;
+    overflow: hidden; 
+}
+header nav ul li {
+    float: left;
+}
+header nav ul li a {
+    display        : block;
+    padding        :20px;
+    color          : #fff;
+    text-decoration: none ;
+}
+header nav ul li a:hover {
+    background: #2980b9;
+}
+.menu-fixed {
+    position  : fixed;
+    z-index   : 1000;
+    top       :0;
+    width     :100%;
+    left      :0;
+    box-shadow: 0px 4px 3px rgba(0,0,0,.5);
+}
+.menu-fixed ul li a {
+    padding: 10px 15px;
+
+}
+.pt {
+    font-size:15px;
+}
+.ip {
+
+}
+.mg {
+    width: 70%;
+    height: 70%;
+}
+.mj {
+    width: 150%;
+    height: 150%;
+}
+.logs {
+    width: 15%;
+    height: 15%;
+    border:0;
+}
+.he {
+    color:#FFFF00;
+}
